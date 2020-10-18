@@ -13,9 +13,8 @@ module "name" {
 }
 ```
 
-
 ## Module Elements
-
+<!-- DESCRIBE THE MODULE ELEMENTS IN DETAIL, IF NEEDED -->
 
 ## Examples
 
